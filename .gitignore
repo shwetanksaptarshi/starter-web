@@ -1,3 +1,4 @@
 .pleaseIgnoreMe
 *.log
 /log
+*.orig
